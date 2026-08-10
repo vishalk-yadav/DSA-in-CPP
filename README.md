@@ -8,6 +8,7 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
+| [3099-harshad-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
