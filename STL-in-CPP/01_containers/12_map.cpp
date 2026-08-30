@@ -1,23 +1,31 @@
-#include <map>
 #include <iostream>
+#include <map>
 #include <string>
 using namespace std;
 
 int main() {
-    map<string, int> marks;
+  map<string, int> marks;
 
-    marks["Vishal"] = 95;
-    marks["Aman"] = 88;
-    marks["Riya"] = 91;
+  marks["Vishal"] = 95;
+  marks["Aman"] = 88;
+  marks["Riya"] = 91;
 
-    marks["Vishal"] = 99;
+  // Update Vishal's marks
+  marks["Vishal"] = 99;
 
-    cout << "Vishal: " << marks["Vishal"] << '\n';
+  cout << "Vishal: " << marks["Vishal"] << '\n';
 
-    auto it = marks.find("Aman");
-    if (it != marks.end())
-        cout << it->first << " -> " << it->second << '\n';
+  // Find Aman
+  auto it = marks.find("Aman");
 
-    for (const auto& [name, score] : marks)
-        cout << name << " -> " << score << '\n';
+  if (it != marks.end()) {
+    cout << it->first << " -> " << it->second << '\n';
+  }
+
+  // Print all elements
+  for (const auto &entry : marks) {
+    cout << entry.first << " -> " << entry.second << '\n';
+  }
+
+  return 0;
 }
