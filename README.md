@@ -7,6 +7,7 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0009-palindrome-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3099-harshad-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/3099-harshad-number/) | Easy |
