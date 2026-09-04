@@ -9,6 +9,7 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 | [0007-reverse-integer](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3099-harshad-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/3099-harshad-number/) | Easy |
@@ -19,9 +20,18 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0066-plus-one/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
