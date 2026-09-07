@@ -34,4 +34,8 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
