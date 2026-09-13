@@ -37,5 +37,10 @@ A comprehensive collection of Data Structures and Algorithms solutions in C++, s
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
