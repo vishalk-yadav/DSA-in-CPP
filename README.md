@@ -1,46 +1,43 @@
-# DSA-in-CPP
-A comprehensive collection of Data Structures and Algorithms solutions in C++, solved on LeetCode with clean code and optimized approaches.
+# DSA in C++
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0007-reverse-integer](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0007-reverse-integer/) | Medium |
-| [0009-palindrome-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0009-palindrome-number/) | Easy |
-| [0066-plus-one](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0066-plus-one/) | Easy |
-| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
-| [0367-valid-perfect-square](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0367-valid-perfect-square/) | Easy |
-| [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
-| [3099-harshad-number](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/3099-harshad-number/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0367-valid-perfect-square](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0367-valid-perfect-square/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
-| [0371-sum-of-two-integers](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0371-sum-of-two-integers/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0066-plus-one](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0066-plus-one/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0067-add-binary](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0067-add-binary/) | Easy |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0206-reverse-linked-list/) | Easy |
-| [0237-delete-node-in-a-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/vishalk-yadav/DSA-in-CPP/tree/main/0206-reverse-linked-list/) | Easy |
-<!---LeetCode Topics End-->
+A collection of my **Data Structures and Algorithms (DSA)** learning journey implemented in **C++**.
+
+This repository contains concepts, implementations, practice problems, and solutions that I add as I learn and improve my problem-solving skills.
+
+## 📚 Topics Covered
+
+- C++ Basics
+- Patterns
+- STL in C++
+- Linked List
+- Searching
+- Sorting
+- More DSA topics coming soon...
+
+## 🎯 Purpose
+
+This repository is mainly for:
+- Learning and practicing DSA
+- Improving C++ programming skills
+- Understanding algorithms through implementation
+- Maintaining a record of my learning journey
+
+## 🛠️ Language
+
+**C++**
+
+## 🚀 Work in Progress
+
+This repository is continuously updated as I learn new DSA concepts and solve more problems.
+
+⭐ Feel free to explore the repository and learn along with me!
+
+## 👨‍💻 Author
+
+**Vishal Kumar Yadav**
+
+- GitHub: [@vishalk-yadav](https://github.com/vishalk-yadav)
+
+---
+
+**Made with C++ | Learning DSA one concept at a time.**
